@@ -38,6 +38,7 @@ dependencies:
   go_router: ^13.1.0
   shared_preferences: ^2.2.2
   after_layout: ^1.2.0
+  firebase_core: ^2.24.2
 
 dev_dependencies:
   build_runner: ^2.4.9

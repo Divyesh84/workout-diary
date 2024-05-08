@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717339012850",
+    "project_id": "workout-diary-d0e1b",
+    "storage_bucket": "workout-diary-d0e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717339012850:android:49ae20aa998db03521aa6b",
+        "android_client_info": {
+          "package_name": "com.example.workout_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMTISL-6WGH4s4COu_GJdNzKarJhmChg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
